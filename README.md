@@ -24,10 +24,10 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
     ![](pics/fig5.png)
 
-3. Using the cached data, run query #4. Determine the runtime and compare it to uncached runtime.
+3. Using the cached data, run query *iv*. Determine the runtime and compare it to uncached runtime.
 
 ![](pics/fig6.png)
 
-4. Partition by the "date_built" field on the formatted parquet home sales data and run the query #4. Determine the runtime and compare it to uncached runtime.
+4. Partition by the "date_built" field on the formatted parquet home sales data and run the query *iv*. Determine the runtime and compare it to uncached runtime.
 
 ![](pics/fig7.png)
